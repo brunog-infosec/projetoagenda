@@ -7,7 +7,7 @@ const {loginRequired} = require("./src/middlewares/middleware")
 
 
 //Rotas da Home
-route.get("/", homeController.index);
+route.get("/", homeController.index, loginRequired);
 
 //Rotas de Login
 route.get("/login/index", loginController.index);
