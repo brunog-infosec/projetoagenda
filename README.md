@@ -1,4 +1,15 @@
-# projetoagenda — API Node + Express (EJS frontend)
+# Projeto API Agenda — API Node + Express (EJS frontend)
+
+## 📸 Screenshots da Aplicação
+
+| Tela de Login | Tela Principal | 
+| :-----------: | :------------: | 
+| <img src="assets/login-and-register.png" alt="tela de login" width="300"/> | <img src="assets/tela_principal.png" alt="tela inicial" width="300"/> |
+
+
+| Edição de Usuário | Exclusão de Usuário |
+| :------------------: | :------------------: |
+| <img src="assets/update_contatos.png" alt="Exemplo do dashboard" width="300"/> | <img src="assets/delete_contatos.png" width="300"> |
 
 ## Resumo
 - Aplicação web com Node.js + Express + Mangoose que oferece views server-side com EJS e persistência via MongoDB.
